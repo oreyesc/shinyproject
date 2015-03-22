@@ -1,5 +1,7 @@
 # shinyproject
 
+
+
 # Shiny Application
 
 ## Objectives 
@@ -51,4 +53,4 @@ In the **server.R** are:
 
 #### Link to Shinyapps
 
-[shiny application]<https://sigma360.shinyapps.io/shinyproject_coursera/>.
+[Shiny Application](https://sigma360.shinyapps.io/shinyproject_coursera/).
