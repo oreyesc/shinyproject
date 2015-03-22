@@ -13,10 +13,12 @@ The application includes the following:
 - You must also include enough documentation so that a novice user could use your application.
 - The documentation should be at the Shiny website itself. Do not post to an external link.
 *****
+
 ## Components
 1. **ui.R**: user-interface definition of a Shiny web application.
 2. **server.R**: logic for a Shiny web application.
 *****
+
 ## Functionality
 In the **ui.R** the user has tow parts:
 
